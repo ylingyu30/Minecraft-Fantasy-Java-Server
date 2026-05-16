@@ -10,7 +10,7 @@ A mod-gether for 【Fantasy】Minecraft Java Server
 
 修改说明
 
-特殊修改：为提升核显电脑的游戏稳定性，本包内的“暮色森林 (Twilight Forest)”模组，由本人修改了其渲染代码（删除了极光着色器）。该修改部分的代码依据其 LGPL-2.1 协议开源，源码地址：[在此粘贴源码仓库链接]。模组的非代码资产仍沿用原 CC BY-NC-SA 4.0 协议。
+特殊修改：为提升核显电脑的游戏稳定性，本包内的“暮色森林 (Twilight Forest)”模组，由本人修改了其渲染代码（删除了极光着色器）。该修改部分的代码依据其 LGPL-2.1 协议开源，源码地址：https://github.com/ylingyu30/Twilightforest-forge.git。模组的非代码资产仍沿用原 CC BY-NC-SA 4.0 协议。
 
 其他模组：除上述说明外，本整合包未对其他任何模组进行修改。
 
@@ -31,7 +31,7 @@ All copyrights, ownership rights, and intellectual property rights of every mod 
 
 Modification Notice
 
-Special modification: To improve game stability on computers with integrated graphics, the Twilight Forest mod included in this pack has been modified by me to remove its aurora shader rendering code. The modified portion of the code is open source under its LGPL-2.1 license. Source code is available at: [insert source code repository link here]. The non-code assets of the mod continue to be governed by the original CC BY-NC-SA 4.0 license.
+Special modification: To improve game stability on computers with integrated graphics, the Twilight Forest mod included in this pack has been modified by me to remove its aurora shader rendering code. The modified portion of the code is open source under its LGPL-2.1 license. Source code is available at: https://github.com/ylingyu30/Twilightforest-forge.git . The non-code assets of the mod continue to be governed by the original CC BY-NC-SA 4.0 license.
 
 Other mods: Except for the above, no other mods in this pack have been modified.
 
