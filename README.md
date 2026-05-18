@@ -1,5 +1,8 @@
 # Minecraft-Fantasy-Java-Server
+
 A mod-gether for 【Fantasy】Minecraft Java Server
+
+There is a server address inside,And Pcl clent for newer
 【下载必读】关于本整合包的重要声明
 
 分享目的
